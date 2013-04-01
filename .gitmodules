@@ -1,0 +1,9 @@
+[submodule "cssforms"]
+	path = cssforms
+	url = git@github.com:tilomitra/cssforms.git
+[submodule "csstables"]
+	path = csstables
+	url = git@github.com:tilomitra/csstables.git
+[submodule "csslist"]
+	path = csslist
+	url = git@github.com:tilomitra/csslist.git
